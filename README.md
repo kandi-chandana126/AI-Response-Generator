@@ -1,0 +1,1 @@
+"Developed a system that retrieves web content based on user queries, processes the information, and generates responses using a large language model. The system features a backend service for content retrieval and processing, along with a user-friendly front-end interface for seamless interaction and response display."
